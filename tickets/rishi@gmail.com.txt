@@ -1,0 +1,29 @@
+
+-------------------------------------------------------------
+EMAIL: rishi@gmail.com
+-------------------------------------------------------------
+
+BOOKING ID: 873573
+PASSENGER'S NAME: rishi raj
+AGE: 19
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2022-03-06
+BOOKING TIME: 13:10:24
+JOURNEY DATE: 2022-05-12
+DEPARTURE TIME: 9:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 962002
+PASSENGER'S NAME: rohan
+AGE: 18
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2022-03-06
+BOOKING TIME: 13:10:24
+JOURNEY DATE: 2022-05-12
+DEPARTURE TIME: 9:00:00
+
+-------------------------------------------------------------
+TOTAL AMOUNT: 2000
+-------------------------------------------------------------

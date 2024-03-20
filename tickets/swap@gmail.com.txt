@@ -1,0 +1,67 @@
+
+-------------------------------------------------------------
+EMAIL: swap@gmail.com
+-------------------------------------------------------------
+
+BOOKING ID: 172643
+PASSENGER'S NAME: ab
+AGE: 2
+2
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-09
+BOOKING TIME: 17:02:11
+JOURNEY DATE: 2021-12-2
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 740178
+PASSENGER'S NAME: swap
+AGE: 3
+3
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-09
+BOOKING TIME: 17:02:11
+JOURNEY DATE: 2021-12-2
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 920992
+PASSENGER'S NAME: rishi
+AGE: 18
+18
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-09
+BOOKING TIME: 17:02:11
+JOURNEY DATE: 2021-12-2
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 754715
+PASSENGER'S NAME: raj
+AGE: 23
+23
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-09
+BOOKING TIME: 17:02:11
+JOURNEY DATE: 2021-12-2
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 564939
+PASSENGER'S NAME: bantu
+AGE: 12
+12
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-09
+BOOKING TIME: 17:02:11
+JOURNEY DATE: 2021-12-2
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+TOTAL AMOUNT: 5000
+-------------------------------------------------------------

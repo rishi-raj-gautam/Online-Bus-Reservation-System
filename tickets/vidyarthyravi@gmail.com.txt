@@ -1,0 +1,31 @@
+
+-------------------------------------------------------------
+EMAIL: vidyarthyravi@gmail.com
+-------------------------------------------------------------
+
+BOOKING ID: 989668
+PASSENGER'S NAME: Rishi raj
+AGE: 18
+18
+FROM LOACATION: kolkata
+TO LOCATION: hyderabad
+BOOKING DATE: 2021-10-08
+BOOKING TIME: 00:16:28
+JOURNEY DATE: 2021-10-31
+DEPARTURE TIME: 14:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 691740
+PASSENGER'S NAME: RK Vidyarthy
+AGE: 48
+48
+FROM LOACATION: kolkata
+TO LOCATION: hyderabad
+BOOKING DATE: 2021-10-08
+BOOKING TIME: 00:16:28
+JOURNEY DATE: 2021-10-31
+DEPARTURE TIME: 14:00:00
+
+-------------------------------------------------------------
+TOTAL AMOUNT: 2200
+-------------------------------------------------------------

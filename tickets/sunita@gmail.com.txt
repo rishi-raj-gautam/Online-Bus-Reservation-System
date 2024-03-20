@@ -1,0 +1,31 @@
+
+-------------------------------------------------------------
+EMAIL: sunita@gmail.com
+-------------------------------------------------------------
+
+BOOKING ID: 155149
+PASSENGER'S NAME: rishi
+AGE: 18
+18
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-07
+BOOKING TIME: 21:38:08
+JOURNEY DATE: 2020-8-12
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+BOOKING ID: 384910
+PASSENGER'S NAME: raj
+AGE: 12
+12
+FROM LOACATION: kolkata
+TO LOCATION: delhi
+BOOKING DATE: 2021-10-07
+BOOKING TIME: 21:38:08
+JOURNEY DATE: 2020-8-12
+DEPARTURE TIME: 09:00:00
+
+-------------------------------------------------------------
+TOTAL AMOUNT: 2000
+-------------------------------------------------------------
